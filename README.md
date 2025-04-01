@@ -1,2 +1,2 @@
-# R2-2025
+# My first repository
 A repository for Statistical Modeling and Simulation in R
